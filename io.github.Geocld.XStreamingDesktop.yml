@@ -13,6 +13,9 @@ finish-args:
   - --socket=x11
   - --socket=pulseaudio
   - --share=network
+  - --allow=bluetooth
+  - --device=all
+  - --filesystem=/run/udev:ro
 build-options:
   append-path: /usr/lib/sdk/node20/bin
   env:
@@ -42,8 +45,8 @@ modules:
       # Build from source
       - type: git
         url: https://github.com/Geocld/XStreamingDesktop
-        tag: v1.4.0
-        commit: 4ea9aa6aecc4ba44426d8e54b5ce988ab0d39027
+        tag: v1.4.1
+        commit: 659feb2b08d32af1e3aa19b937fa7e3661ecbae8
         dest: main
       - yarn-sources.json
       - type: inline
