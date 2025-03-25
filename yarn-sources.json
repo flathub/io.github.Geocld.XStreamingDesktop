@@ -6884,13 +6884,6 @@
     },
     {
         "type": "file",
-        "url": "https://registry.npmjs.org/xstreaming-player/-/xstreaming-player-0.2.6.tgz",
-        "sha512": "59c7ee3bd77ee56c95b48884dc408272844dfd174c51d91891058b4e83d6178937cbc514b727f8b22095dfe907648d47e3f81b24b6889128e525f6cbb37bf7ff",
-        "dest-filename": "xstreaming-player-0.2.6.tgz",
-        "dest": "flatpak-node/yarn-mirror"
-    },
-    {
-        "type": "file",
         "url": "https://registry.npmjs.org/xvfb-maybe/-/xvfb-maybe-0.2.1.tgz",
         "sha512": "f48c91cf797a432865e8bbe71911798cc3c1e280447a9427bb3bd50054f29cfe8008b2d27afaa2808089f5dffea1f976f66d9d69e6950428673d852769e27bc8",
         "dest-filename": "xvfb-maybe-0.2.1.tgz",
@@ -7020,6 +7013,13 @@
         "url": "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6",
         "sha512": "e71a037d7f9f2fb7da0139da82658fa5b16dc21fd1efb5a630caaa1c64bae42defbc1d181eb805f81d58999df8e35b4c8f99fade4d36d765cda09c339617df43",
         "dest-filename": "fsevents-2.3.3.tgz",
+        "dest": "flatpak-node/yarn-mirror"
+    },
+    {
+        "type": "file",
+        "url": "https://registry.yarnpkg.com/xstreaming-player/-/xstreaming-player-0.2.7.tgz#ec27459558aed83e590c1ff9ec499089e6f2c62e",
+        "sha512": "ae28d827ab84bd3cea8fc44a5cee2b36ccbceb20fffb8f9f2b17238f9d62f3b31b4781131dab1bf47ff5e865a233b3967baf5934a52ced27268e5770fc4f7dea",
+        "dest-filename": "xstreaming-player-0.2.7.tgz",
         "dest": "flatpak-node/yarn-mirror"
     },
     {
