@@ -1,9 +1,9 @@
 app-id: io.github.Geocld.XStreamingDesktop
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 base: org.electronjs.Electron2.BaseApp
-base-version: '24.08'
+base-version: '25.08'
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.node20
 command: run.sh
@@ -45,8 +45,8 @@ modules:
       # Build from source
       - type: git
         url: https://github.com/Geocld/XStreamingDesktop
-        tag: v1.8.9
-        commit: b6d22b4b3aecf0c5bfab0d3984638cefcd1d02b2
+        tag: v1.9.0
+        commit: 5fb2c8311318019cc564079dc8f967f3870ec194
         dest: main
       - yarn-sources.json
       - type: inline
