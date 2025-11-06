@@ -7108,9 +7108,9 @@
     },
     {
         "type": "file",
-        "url": "https://registry.yarnpkg.com/xstreaming-player/-/xstreaming-player-0.2.22.tgz#9de1d4b90c643f8d87035322c8baa9637a5749eb",
-        "sha512": "c357ca6a8727e8bf4ecf160ccf7806d6ecfc04426d6b71ceddc6713cd40439ea56983c6e80b98ff9f8a2e65db3a8a63f1e4d7673abec54008d10ca9f2f80f485",
-        "dest-filename": "xstreaming-player-0.2.22.tgz",
+        "url": "https://registry.yarnpkg.com/xstreaming-player/-/xstreaming-player-0.2.23.tgz#878b066c094cd94e76bf1083f3f4eb7bc6163343",
+        "sha512": "47121bdbf2b1b25acef934abafe9a65843ecdc9108b1eed5694b28c659036fc9fe2e1d224ab18cda151a8e424e7a42eff79ac929c58ff263b8595f74c42f335b",
+        "dest-filename": "xstreaming-player-0.2.23.tgz",
         "dest": "flatpak-node/yarn-mirror"
     },
     {
