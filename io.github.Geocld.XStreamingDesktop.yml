@@ -45,8 +45,8 @@ modules:
       # Build from source
       - type: git
         url: https://github.com/Geocld/XStreamingDesktop
-        tag: v1.9.5
-        commit: e4273649942ba6e3717acf79f443410dc3dcf5f0
+        tag: v1.9.6
+        commit: 0a718606f7a287e8c38a81d8870cef72e6940c84
         dest: main
       - yarn-sources.json
       - type: inline
