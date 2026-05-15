@@ -5883,6 +5883,13 @@
     },
     {
         "type": "file",
+        "url": "https://registry.yarnpkg.com/peasyo-sdl-lib/-/peasyo-sdl-lib-1.0.2.tgz#14eef54307ebb4f91aa84b96a6bd5a015aa9e00e",
+        "sha512": "d432009a5bc957c80518bf436c09bc7dd267d80d62537cc10cc712f7b2d57ff5e0d4b83ccaa4581f0525bcfb5cc3f5f5bd9c606adee12a9b5f1c5f7546c48f30",
+        "dest-filename": "peasyo-sdl-lib-1.0.2.tgz",
+        "dest": "flatpak-node/yarn-mirror"
+    },
+    {
+        "type": "file",
         "url": "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50",
         "sha512": "1776acbf8d94b97721773b7ec57a9f5b538695505efa6c5ada6a88d29839c801d93ef16663763a76b49ffc643503ce9681610df4ace1fd6ae029aea219c1d72e",
         "dest-filename": "pend-1.2.0.tgz",
@@ -7192,9 +7199,9 @@
     },
     {
         "type": "file",
-        "url": "https://registry.yarnpkg.com/xstreaming-player/-/xstreaming-player-0.3.0.tgz#b10e2de02b7990ca2ea3e8d9d3c165e0dd48b213",
-        "sha512": "540a25671250514afeb26a5672a33327aff09d437cc41b3961f45a61b80966e19397633763fbade0711ab730513765b5abef3ab69c6ba0fbda9e14dabcdc9736",
-        "dest-filename": "xstreaming-player-0.3.0.tgz",
+        "url": "https://registry.yarnpkg.com/xstreaming-player/-/xstreaming-player-0.3.2.tgz#10f469bd87facaf7ffdf864fa7db98ece3d1d510",
+        "sha512": "ff38091b29f30730a0e5f1dae678847d66cbd5d3d0a0054bc25e9f2c2ff8b4ad4dbc8ba788f38d9b326b010a9858b4833881f3d526807cc36366fadab295402c",
+        "dest-filename": "xstreaming-player-0.3.2.tgz",
         "dest": "flatpak-node/yarn-mirror"
     },
     {
